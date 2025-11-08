@@ -1,4 +1,3 @@
-*node_module
+node_modules
 license
-readme.md
-*.txt
+.txt
